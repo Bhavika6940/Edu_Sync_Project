@@ -2,7 +2,7 @@
   "name": "practice-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Bhavika6940/Edu_Syn_Frontend",
+  "homepage": "https://github.com/Bhavika6940/Edu_Sync_Project",
   "proxy": "https://localhost:7086",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
